@@ -3,7 +3,7 @@
   "Flows": [
     {
       "EnvironmentId": "00000000-0000-0000-0000-000000000000",
-      "TimeoutSeconds": "600",
+      "TimeoutSeconds": "10000",
       "DefaultTimeoutSec": "10",
       "IsFailedUnlessPassed": "True",
       "VideoRecording": "HighQuality",
@@ -20,7 +20,7 @@
       "Description": "",
       "DateCreation": "9/18/2026 10:05:43 AM +00:00",
       "DateModify": "9/18/2026 10:05:43 AM +00:00",
-      "Title": "BackupFlowsAcrossTeams",
+      "Title": "BackupFlowsForSpecificTeam",
       "Type": "Flow",
       "IsDeleted": "False",
       "Id": "4fa79cb7-7ae0-4c80-8e03-1c79a76f7d7c",
